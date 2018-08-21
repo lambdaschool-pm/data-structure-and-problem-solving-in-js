@@ -1,0 +1,38 @@
+{
+  "name": "data-structures-and-problem-solving-in-javascript",
+  "version": "1.0.0",
+  "description": "Data structures and algorithms",
+  "main": "index.js",
+  "directories": {
+    "test": "tests",
+    "linked_list": "linked_list"
+  },
+  "scripts": {
+    "test": "jest --verbose",
+    "test:watch": "npm test -- --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lambdaschool-pm/data-structure-and-problem-solving-in-js.git"
+  },
+  "keywords": [
+    "linked",
+    "list",
+    "bfs",
+    "dfs",
+    "stacks",
+    "queues",
+    "binary",
+    "tree"
+  ],
+  "author": "Edward Manda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lambdaschool-pm/data-structure-and-problem-solving-in-js/issues"
+  },
+  "homepage": "https://github.com/lambdaschool-pm/data-structure-and-problem-solving-in-js#readme",
+  "devDependencies": {
+    "jest": "^23.5.0",
+    "regenerator-runtime": "^0.12.1"
+  }
+}
