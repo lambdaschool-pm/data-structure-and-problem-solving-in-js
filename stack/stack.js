@@ -1,0 +1,4 @@
+// pop()
+// push
+// isEmpty()
+// peek()

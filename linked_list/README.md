@@ -10,9 +10,9 @@
 
 3. What is the runtime complexity of `remove_head`?
 
-4. What is the runtime complexity of `contains`?
+4. What is the runtime complexity of `search`?
 
-5. What is the runtime complexity of `get_max`?
+5. What is the runtime complexity of `size`?
 
 
 ## Linked Lists

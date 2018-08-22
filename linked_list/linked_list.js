@@ -103,7 +103,7 @@ class LinkedList {
 	search(target) {
 		// base case :
 		// 1. We find the target, return true
-		// 2. We don't find the target, return flse
+		// 2. We don't find the target, return false
 
 		// get the head or the first node
 		let current = this.head;
@@ -137,7 +137,7 @@ class LinkedList {
 		return count;
 	}
 }
-
+/*
 // User
 const user1 = new User({
 	id: 1,
@@ -161,5 +161,5 @@ list.add_to_tail(8);
 console.log('does 1 exist in the list ? ', list.search(1));
 console.log('does 6 exist in the list ? ', list.search(6));
 console.log('does 16 exist in the list ? ', list.search(16));
-
+*/
 module.exports = LinkedList;
